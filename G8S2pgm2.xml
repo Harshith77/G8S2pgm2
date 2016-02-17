@@ -6,7 +6,7 @@
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_forward" id="32">
+      <block type="movement_reverse" id="63">
         <next>
           <block type="led_select" id="1" inline="true">
             <field name="ACTION">FLASH</field>
